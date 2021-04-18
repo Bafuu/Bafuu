@@ -15,9 +15,8 @@
 </p>
 
 ## Github Stats  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasp-rr&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"> <!--düzenle-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaspe-rr&theme=tokyonight"> <!--düzenle-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaspe-rr&theme=tokyonight"> <!--düzenle-->
+
 
 ## Contact me  
 <div align="center">
