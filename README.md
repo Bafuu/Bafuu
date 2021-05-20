@@ -15,7 +15,6 @@
 </p>
 
 ## Github Stats  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaspe-rr&theme=tokyonight"> <!--düzenle-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
