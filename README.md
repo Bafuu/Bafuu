@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Jasper
+# 👋 Hi! I'm Bafu
 
 - Dimension let me tell you a little bit about myself. I have been making discord bots for `1` year.
 - I've been dealing with discord.js since 2020 and developing bots for Discord servers.
