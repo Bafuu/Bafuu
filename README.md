@@ -20,13 +20,11 @@
 
 ## Contact me  
 <div align="center">
-<a href="https://github.com/GithubLinkinAbi" target="_blank"> <!--Sol tarafa bak abi orada kendi github linkini koy-->
+<a href="https://github.com/Bafuu" target="_blank"> <!--Sol tarafa bak abi orada kendi github linkini koy-->
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/YwdKwsaHYM" target="_blank">
+<a href="https://discord.gg/p6t8CUr9rD" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
-  <a href="https://www.youtube.com/channel/UCOoPsUMjzJCaVB7NqjCuqAQ" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> 
+ 
 </div>
