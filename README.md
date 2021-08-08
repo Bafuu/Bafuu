@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:424512092742352897)](https://discord.com/users/:424512092742352897)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/424512092742352897)](https://discord.com/users/424512092742352897)
 
 
 ## Github Stats  
