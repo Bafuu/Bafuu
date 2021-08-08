@@ -5,18 +5,7 @@
 - I will share my projects with you on my Github account and do it professionally..
 - You can add our own bot named [Verti](https://discord.com/oauth2/authorize?client_id=782666829822165012&permissions=8&scope=bot&redirect_uri=https://discord.gg/nwtcNF9mjw&response_type=code) to your own server, it has multiple language features. You can use it safely.
 
-## Programming Languages I Know ; 
-<p>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img src=" https://img.shields.io/badge/typescript%20-%23E34F26.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-</p>
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/424512092742352897)](https://discord.com/users/424512092742352897)
-(https://lanyard-profile-readme.vercel.app/api/852773454783840307)](https://discord.com/users/852773454783840307)
-
 
 ## Github Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
