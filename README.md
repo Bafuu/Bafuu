@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Bafu
+# 👋 Hi! I'm Bafu <img src="https://komarev.com/ghpvc/?username=Bafuu&color=0BF58A"/>
 
 - Dimension let me tell you a little bit about myself. I have been making discord bots for `2` year.
 - I've been dealing with discord.js since 2019 and developing bots for Discord servers.
