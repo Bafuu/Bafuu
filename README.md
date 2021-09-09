@@ -21,19 +21,3 @@
 </a> 
  
 </div>
-
- const Bafu = {
- 	Nicks: ['Bafu', 'Jutul', 'Jasper', 'JP'],
-   	Languages: ['Javascript', 'TypeScript'],
-   	Tools: ['VSCode', 'Node', 'DiscordJS'],
-   	hobbies:[
-       Games: ['Leauge of Legends', 'CS:GO', 'Valorant', 'R6'],
-       WatchingAnime: false,
-       TVSeries: true
-   ],  
-   	Projects: {
-   	    Verti: "a Moderation Bot Created for Discord",
-       Coming Soon: "My new project is at your service very soon"
-   	},
- }
-
