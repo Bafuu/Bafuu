@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Bafu <img src="https://komarev.com/ghpvc/?username=Bafuu&color=0BF58A"/>
 
-<script>  const Bafu = { </script>
+const Bafu = { 
  	Nicks: ['Bafu', 'Jutul', 'Jasper', 'JP'],
    	Languages: ['Javascript', 'TypeScript'],
    	Tools: ['VSCode', 'Node', 'DiscordJS'],
