@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Bafu <img src="https://komarev.com/ghpvc/?username=Bafuu&color=0BF58A"/>
-<script
+<script>
 const Bafu = { 
  	Nicks: ['Bafu', 'Jutul', 'Jasper', 'JP'],
    	Languages: ['Javascript', 'TypeScript'],
@@ -14,7 +14,8 @@ const Bafu = {
        Coming Soon: "My new project is at your service very soon"
    	},
  } 
->
+"</h1>"
+</script>
 - Dimension let me tell you a little bit about myself. I have been making discord bots for `2` year.
 - I've been dealing with discord.js since 2019 and developing bots for Discord servers.
 - I will share my projects with you on my Github account and do it professionally..
