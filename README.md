@@ -12,7 +12,7 @@ const Bafu = {
    ],  
    	Projects: {
    	    Verti: "a Moderation Bot Created for Discord",
-       Coming Soon: "My new project is at your service very soon"
+       ComingSoon: "My new project is at your service very soon"
    	},
  } 
 ```
