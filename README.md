@@ -19,8 +19,6 @@ const Bafu = {
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/424512092742352897)](https://discord.com/users/424512092742352897)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bafuu&label=Profile%20views&color=0e75b6&style=flat" alt="Bafuu" /> </p>
-
 ## Github Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,3 +33,6 @@ const Bafu = {
 </a> 
  
 </div>
+
+![Logo](https://placewaifu.com/image/960/250) 
+
