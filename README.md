@@ -17,7 +17,6 @@ const Bafu = {
  } 
 ```
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/424512092742352897)](https://discord.com/users/424512092742352897)
 
 ## Github Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,7 +27,7 @@ const Bafu = {
 <a href="https://github.com/Bafuu" target="_blank"> <!--Sol tarafa bak abi orada kendi github linkini koy-->
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/p6t8CUr9rD" target="_blank">
+<a href="https://discord.gg/rxpaWYcWZJ" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
  
