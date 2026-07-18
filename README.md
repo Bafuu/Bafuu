@@ -20,11 +20,9 @@ const Bafu = {
 ```
 
 
-<h2>My Eloboost Project</h2>
+## My Eloboost Project
 
-<a href="https://www.primeboostgg.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-PrimeBoostGG-5865F2?style=for-the-badge" />
-</a>
+🔗 **Website:** https://www.primeboostgg.com
 
 
 ## Contact me  
