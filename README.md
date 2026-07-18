@@ -3,7 +3,7 @@
 ```javascript
 const Bafu = { 
  	Names: ['Bafu', 'Jutul', 'Jasper', 'JP'],
-   	Languages: ['Javascript', 'TypeScript'],
+   	Languages: ['Javascript'],
    	Tools: ['VSCode', 'Node', 'DiscordJS'],
    	hobbies:[
        Games: ['Leauge of Legends'],
@@ -14,7 +14,7 @@ const Bafu = {
    	    Dwonzy: "a Moderation Bot Created for Discord",
         Verti: "a Moderation Bot Created for Discord (Closed)",
         Dwonzy Guard: "a Guard Bot Created for Discord (Closed)",
-       ComingSoon: "My new project is at your service very soon"
+        ComingSoon: "My new project is at your service very soon"
    	},
  } 
 ```
