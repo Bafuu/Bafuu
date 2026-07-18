@@ -6,20 +6,22 @@ const Bafu = {
    	Languages: ['Javascript', 'TypeScript'],
    	Tools: ['VSCode', 'Node', 'DiscordJS'],
    	hobbies:[
-       Games: ['Leauge of Legends', 'CS:GO', 'Valorant', 'R6'],
+       Games: ['Leauge of Legends'],
        WatchingAnime: false,
        TVSeries: true
    ],  
    	Projects: {
-   	    Verti: "a Moderation Bot Created for Discord",
+   	    Dwonzy: "a Moderation Bot Created for Discord",
+        Verti: "a Moderation Bot Created for Discord (Closed)",
+        Dwonzy Guard: "a Guard Bot Created for Discord (Closed)",
        ComingSoon: "My new project is at your service very soon"
    	},
  } 
 ```
 
 
-## Github Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## My Eloboost Project  
+[![Link](https://www.primeboostgg.com)]
 
 
 ## Contact me  
